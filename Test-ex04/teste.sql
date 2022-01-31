@@ -16,7 +16,7 @@
 
 /* SELECT * FROM usuarios WHERE idade = 8; */
 /* SELECT * FROM usuarios WHERE nome = 'Victor Lima'; */
-/* SELECT * from usuarios WHERE idade >= 18; */
+/* SELECT * FROM usuarios WHERE idade >= 18; */
 
 /* DELETE FROM usuarios WHERE nome = 'Josevaldo'; */
 /* UPDATE usuarios SET email = 'email@teste2.com' WHERE nome = 'Maria Clara'; */
